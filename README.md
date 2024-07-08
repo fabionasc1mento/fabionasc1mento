@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fabionasc1mento
-- 👀 I’m interested in UI/UX Design
+- 👀 I’m interested in UX/Ui Design & Front-end Development
 - 🌱 I’m currently learning ReactJS, NodeJS, Laravel and FrameWorks to front-end development
 - 💞️ I’m looking to collaborate on ...
 
