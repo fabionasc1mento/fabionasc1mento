@@ -1,4 +1,4 @@
-<h5 align="left">👋 Hi, I’m @fabionasc1mento<br>👀 I’m interested in Development<br>🌱<br><br></h5>
+<h5 align="left">👋 Hi, I’m @fabionasc1mento<br>👀 I’m interested in Development</h5>
 
 ###
 
