@@ -28,16 +28,6 @@
 
 <img align="right" height="156" src="https://steamuserimages-a.akamaihd.net/ugc/1843666793278731225/FF4432C8A961ABE9B0DBEB12C2E227494BEB6A34/?imw=268&imh=268&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true"  />
 
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/fabio-tcn/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/fabtarcio/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-</div>
 
 ###
 
