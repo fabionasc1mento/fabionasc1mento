@@ -13,7 +13,7 @@ Full Stack Developer from Cuiabá, Brazil 🇧🇷, building web systems with <b
 
 <h3 align="left">Back end</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,py,fastapi,php,laravel" alt="C#, .NET, Python, FastAPI, PHP, Laravel" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,py,fastapi" alt="C#, .NET, Python, FastAPI" />
 </p>
 
 <h3 align="left">Front end</h3>
@@ -21,10 +21,15 @@ Full Stack Developer from Cuiabá, Brazil 🇧🇷, building web systems with <b
   <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,tailwind" alt="JavaScript, TypeScript, React, HTML, CSS, Tailwind CSS" />
 </p>
 
-<h3 align="left">Data & tools</h3>
+<h3 align="left">Database</h3>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="48" alt="SQL Server" />
+</p>
+
+<h3 align="left">Tools & practices</h3>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,figma" alt="Git, GitHub, Figma" />
-  <br/>SQL · MVC architecture (Controller → Service → Repository) · REST APIs
+  <br/>MVC architecture (Controller → Service → Repository) · REST APIs
 </p>
 
 ###
