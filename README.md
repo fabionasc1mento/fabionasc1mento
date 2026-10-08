@@ -34,12 +34,6 @@ Full Stack Developer from Cuiabá, Brazil 🇧🇷, building web systems with <b
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=fabionasc1mento&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="150" alt="GitHub streak stats" />
-</div>
-
-###
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fabionasc1mento/fabionasc1mento/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fabionasc1mento/fabionasc1mento/output/github-snake.svg" />
